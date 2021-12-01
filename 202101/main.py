@@ -12,7 +12,6 @@ def solution():
         counter += 1
 
       lastSeq = currSeq
-     #print("current sequence: ", currSeq)
 
     print(counter)
 
