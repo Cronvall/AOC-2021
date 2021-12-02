@@ -11,11 +11,9 @@ class Vector2bad:
         self.aim = 0
 
     def up(self, units):
-        #self.y -= units
         self.aim -= units
 
     def down(self, units):
-        #self.y += units
         self.aim += units
 
     def forward(self, units):
