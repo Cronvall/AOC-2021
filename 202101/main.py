@@ -12,7 +12,6 @@ def solution():
         counter += 1
 
       lastSeq = currSeq
-
     print(counter)
 
 if __name__ == '__main__':
