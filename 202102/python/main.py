@@ -1,4 +1,5 @@
 
+#A try at a bad 2D Vector
 
 class Vector2bad:
     x = 0
