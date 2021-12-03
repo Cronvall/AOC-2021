@@ -3,7 +3,7 @@
 | Day        | Languages Part 1          |  Part 2|
 | ------------- |:-------------:         | -----:|
 | Day 01         | Python, C#, Java      | Python |
-| Day 02         | Python, C#            | Python |
+| Day 02         |  C#                   | Python |
 | Day 03         | Python, Java          | Python|
 | Day 04         | ---                   | ---|
 | Day 05         | ---                   | ---|
