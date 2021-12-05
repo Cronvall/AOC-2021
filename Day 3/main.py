@@ -93,7 +93,7 @@ def part_1():
     return sub_diagnostics.power_consumption
 
 
-def part_1():
+def part_2():
     filepath = r"input.txt"
     nums = parse_input(filepath)
     sub_diagnostics = SubmarineDiagnostics(nums)
@@ -102,4 +102,4 @@ def part_1():
 
 if __name__ == "__main__":
     print(part_1())
-    print(part_1())
+    print(part_2())
