@@ -5,7 +5,7 @@
 | Day 01         | Python, C#, Java      | Python | Sonar Sweep              |
 | Day 02         |  C#                   | Python | Dive !               |
 | Day 03         | Python, Java          | Python | Binary Diagnostics               |
-| Day 04         | ---                   | ---    |---               |
+| Day 04         | Python                | Python |---               |
 | Day 05         | ---                   | ---    |---               |
 | Day 06         | ---                   | ---    |---               |
 | Day 07         | ---                   | ---    |---               |
