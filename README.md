@@ -8,7 +8,7 @@
 | Day 04         | Python                | Python | Giant Squid               |
 | Day 05         | ---                   | ---    |---               |
 | Day 06         | Python                   | Python    | Lanternfish               |
-| Day 07         | Python                   | ---    | The Treachery of Whales               |
+| Day 07         | Python                   | Python    | The Treachery of Whales               |
 | Day 08         | ---                   | ---    |---               |
 | Day 09         | ---                   | ---    |---               |
 | Day 10         | ---                   | ---    |---               |
