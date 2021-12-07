@@ -7,8 +7,8 @@
 | Day 03         | Python, Java          | Python | Binary Diagnostics               |
 | Day 04         | Python                | Python | Giant Squid               |
 | Day 05         | ---                   | ---    |---               |
-| Day 06         | ---                   | ---    |---               |
-| Day 07         | ---                   | ---    |---               |
+| Day 06         | Python                   | Python    | Lanternfish               |
+| Day 07         | Python                   | ---    | The Treachery of Whales               |
 | Day 08         | ---                   | ---    |---               |
 | Day 09         | ---                   | ---    |---               |
 | Day 10         | ---                   | ---    |---               |
