@@ -6,7 +6,7 @@
 | Day 02         |  C#                   | Python | Dive !               |
 | Day 03         | Python, Java          | Python | Binary Diagnostics               |
 | Day 04         | Python                | Python | Giant Squid               |
-| Day 05         | ---                   | ---    |---               |
+| Day 05         | Python                   | ---    | Hydrothermal Venture               |
 | Day 06         | Python                   | Python    | Lanternfish               |
 | Day 07         | Python                   | Python    | The Treachery of Whales               |
 | Day 08         | ---                   | ---    |---               |
